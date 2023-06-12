@@ -1,5 +1,5 @@
 # Population-Calculator
-## calculating population
+## Calculating Population
 
 ## This Calculates the population according to below data, user needs to tell how many years of population user needs.
 
